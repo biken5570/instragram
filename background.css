@@ -1,0 +1,164 @@
+*{
+	padding:0px;
+	margin:0px;
+	font-family: cursive;
+
+}
+
+
+	body{
+	text-align: center;
+	margin-top:10px;
+	letter-spacing:3px;
+	font-size:40px;
+
+	
+
+	
+}
+
+.banner{
+	width:100%;
+	height:100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(3.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-bottom: 40px;
+
+
+    }
+    .banner img{
+    	padding-top: 20px;
+    	padding-right:80px;
+
+
+    }
+    .banner a{
+    	font-size: 20px;
+    	color:#fff;
+
+    } 
+.banner.wrapper{
+	border:1px solid #e6e6e6;
+	border-radius:1px;
+	padding:40px 40px 20px;
+	max-height:325px;
+}
+form {
+	font-size: 20px;
+ 		background-color:#fff;
+	border:1px solid #e6e6e6;
+	border-radius:1px;
+	max-height:325px;
+	max-width:350px;
+	height:200px;
+	margin:50px auto;
+	width:185px;
+	padding:49px;
+	margin-left: 800px;
+	padding-right:90px;
+	margin-bottom:90px;
+	background-color:pink;
+}
+form .p{
+	margin-bottom: 60px;
+
+}
+ div  .Destination{
+	width:230px;
+	height:29px;
+	margin-bottom: 10px;
+	background-color:lavender;
+	border-radius:100px;
+
+}
+div .Avalability{
+	width:230px;
+	height:29px;
+	margin-bottom: 10px;
+	background-color:lavender;
+	border-radius:100px;
+
+}
+div .Tour{
+	width:230px;
+	height:29px;
+	margin-bottom: 10px;
+	background-color:lavender;
+	border-radius:100px;
+
+}
+
+div .region{
+	width:230px;
+	height:29px;
+	margin-bottom: 10px;
+	background-color:lavender;
+	border-radius:100px;
+
+}
+div .Submit button{
+	
+	height:30px;
+	padding-right: 8px;
+
+
+}
+
+.canada img{
+	margin-left:-1245px;
+	margin-top:25px;
+	
+	
+	
+
+}
+.canada p{
+	margin-left:-722px;
+	
+	
+	
+
+}
+.canada  li {
+	margin-left:-1334px;
+	margin-top:300px;
+
+
+}
+.america img{
+	margin-left:-1245px;
+}
+
+.america p{
+	margin-top: 50px;
+	
+	margin-left:-1334px;
+	margin-left:-722px;
+}
+.america li{
+	margin-top:48px;
+}
+
+.table{
+	border:1px yellow;
+	height:300px;
+	width:500px;
+}
+
+
+
+ 
+
+ 
+	
+	
+	
+		
+
+
+	 
+
+
+	
+	
